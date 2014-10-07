@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>cooltext1661496491.png</file>
+        <file>favicon.ico</file>
+    </qresource>
+</RCC>
